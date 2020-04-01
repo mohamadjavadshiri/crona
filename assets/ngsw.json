@@ -1,0 +1,84 @@
+{
+  "configVersion": 1,
+  "timestamp": 1585749844321,
+  "index": "https://mohamadjavadshiri.github.io/crona/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://mohamadjavadshiri.github.io/crona/es2015-polyfills.b0657154bc33c6ff11ae.js",
+        "https://mohamadjavadshiri.github.io/crona/favicon.ico",
+        "https://mohamadjavadshiri.github.io/crona/index.html",
+        "https://mohamadjavadshiri.github.io/crona/main.160d7d7399eb87f52834.js",
+        "https://mohamadjavadshiri.github.io/crona/polyfills.8bbb231b43165d65d357.js",
+        "https://mohamadjavadshiri.github.io/crona/runtime.26209474bfa8dc87a77c.js",
+        "https://mohamadjavadshiri.github.io/crona/styles.e66ab01a76018065f494.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://mohamadjavadshiri.github.io/crona/assets/fonts/IRANSansWeb-bold.ttf",
+        "https://mohamadjavadshiri.github.io/crona/assets/fonts/IRANSansWeb.eot",
+        "https://mohamadjavadshiri.github.io/crona/assets/fonts/IRANSansWeb.ttf",
+        "https://mohamadjavadshiri.github.io/crona/assets/fonts/material-icons.woff2",
+        "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-128x128.png",
+        "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-144x144.png",
+        "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-152x152.png",
+        "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-192x192.png",
+        "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-384x384.png",
+        "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-512x512.png",
+        "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-72x72.png",
+        "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-96x96.png",
+        "https://mohamadjavadshiri.github.io/crona/assets/timeseries.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://mohamadjavadshiri.github.io/crona/assets/fonts/IRANSansWeb-bold.ttf": "0ee2693ff9a6358d2830e13d63be166b1398f257",
+    "https://mohamadjavadshiri.github.io/crona/assets/fonts/IRANSansWeb.eot": "914ad6c09c8d32284b6179d91ed345f3b70ab77b",
+    "https://mohamadjavadshiri.github.io/crona/assets/fonts/IRANSansWeb.ttf": "cc29ee3541f937a31503c4dee038cd9d4fc26615",
+    "https://mohamadjavadshiri.github.io/crona/assets/fonts/material-icons.woff2": "685fe10ced259fa12248ee91677a385441db56c1",
+    "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://mohamadjavadshiri.github.io/crona/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://mohamadjavadshiri.github.io/crona/assets/timeseries.json": "93e049cc018050389adc399a55e53afcb69c16bb",
+    "https://mohamadjavadshiri.github.io/crona/es2015-polyfills.b0657154bc33c6ff11ae.js": "0f3ee8ab07e4d632a13acb43b3c8e853cc96887c",
+    "https://mohamadjavadshiri.github.io/crona/favicon.ico": "208d3dd280bf661a5a070b3fe457ec18617cfc64",
+    "https://mohamadjavadshiri.github.io/crona/index.html": "70efab73ccbfd22293ea3fe4ef85f34c52dffaf7",
+    "https://mohamadjavadshiri.github.io/crona/main.160d7d7399eb87f52834.js": "19c4240ed872c64e4449fec6c178f8424444ebbb",
+    "https://mohamadjavadshiri.github.io/crona/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "https://mohamadjavadshiri.github.io/crona/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://mohamadjavadshiri.github.io/crona/styles.e66ab01a76018065f494.css": "83e00dcca04e39b19318ae48beddb8e7ae9c5074"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
